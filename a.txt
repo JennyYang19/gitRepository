@@ -1,4 +1,4 @@
 abC
 git is free software
 git tracks changes of files
-last line
+last line of files
