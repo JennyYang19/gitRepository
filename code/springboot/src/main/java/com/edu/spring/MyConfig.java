@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Scope;
 public class MyConfig {
 
 	@Bean(name="myyBean")
-	//多例
+	//多例 .....
 	@Scope("prototype")
 	public MyBean createMyBean(){
 		return new MyBean();
