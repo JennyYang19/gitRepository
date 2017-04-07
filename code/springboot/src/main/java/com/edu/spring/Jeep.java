@@ -1,4 +1,5 @@
 package com.edu.spring;
-public class MyBean {
+
+public class Jeep  {
 
 }
