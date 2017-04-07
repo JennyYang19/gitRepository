@@ -12,6 +12,7 @@ public class App
     {
        AnnotationConfigApplicationContext context =new AnnotationConfigApplicationContext(MyConfig.class);
        System.out.println(context.getBean(MyBean.class));
+       System.out.println(context.getBean("createMyBean"));
        context.close();
     }
 }
