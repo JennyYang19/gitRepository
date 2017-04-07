@@ -3,7 +3,7 @@ package com.edu.spring;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * Hello world!
+ * Hello world!  2017 4 7
  *
  */
 public class App 
