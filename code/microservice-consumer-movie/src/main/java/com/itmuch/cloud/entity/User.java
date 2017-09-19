@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public class User  {
 	
 	private Long id;
-	
+	private String phone;
 	private String username;
 	private String name;
 	private Short age;
